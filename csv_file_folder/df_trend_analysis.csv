@@ -1,5 +1,5 @@
-Correlation Score,Foreigner Trend,Individual Trend,Inverse Individual Trend,Institution Trend,Corporation Trend,Price Trend
-"      1년    2년    3년    합산
+,Correlation Score,Foreigner Trend,Individual Trend,Inverse Individual Trend,Institution Trend,Corporation Trend,Price Trend
+삼성전자,"      1년    2년    3년    합산
 외인  96.7  93.7  92.8  94.4
 기관  60.7  40.7  44.2  48.5
 개인   1.8   3.4   2.9   2.7
@@ -48,7 +48,7 @@ Correlation Score,Foreigner Trend,Individual Trend,Inverse Individual Trend,Inst
 우상향_20  15
 우상향_60   0
 합계      30"
-"      1년    2년    3년    합산
+SK하이닉스,"      1년    2년    3년    합산
 외인  96.7  98.0  95.6  96.8
 기관  16.6  26.4  36.8  26.6
 개인  23.2   8.8   6.6  12.9
@@ -97,7 +97,7 @@ Correlation Score,Foreigner Trend,Individual Trend,Inverse Individual Trend,Inst
 우상향_20  15
 우상향_60   0
 합계      45"
-"      1년    2년    3년    합산
+LG에너지솔루션,"      1년    2년    3년    합산
 외인  89.1  97.7  80.6  89.1
 기관  83.2  90.1  70.2  81.2
 개인  11.9   2.0   8.5   7.5
