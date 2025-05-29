@@ -1,0 +1,10 @@
+item,전체,조건1(t3) 수,조건1(t3) 비율(%),조건2(t6) 수,조건2(t6) 비율(%),조건3(t9) 수,조건3(t9) 비율(%)
+condition_number == 10,2,2,100.0,1,50.0,0,0.0
+condition_number == 9,10,10,100.0,6,60.0,6,60.0
+condition_number == 8,12,11,91.67,6,50.0,6,50.0
+condition_number == 7,3,3,100.0,3,100.0,1,33.33
+condition_number == 6,9,6,66.67,2,22.22,1,11.11
+condition_number == 5,3,2,66.67,2,66.67,0,0.0
+condition_number == 4,2,1,50.0,0,0.0,0,0.0
+condition_number == 3,1,0,0.0,0,0.0,0,0.0
+condition_number == 2,2,0,0.0,0,0.0,0,0.0
