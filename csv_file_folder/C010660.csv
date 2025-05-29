@@ -1,0 +1,15 @@
+item,전체,조건1(t3) 수,조건1(t3) 비율(%),조건2(t6) 수,조건2(t6) 비율(%),조건3(t9) 수,조건3(t9) 비율(%)
+df.A,48,45,93.75,29,60.42,16,33.33
+df.A & df.B,41,38,92.68,25,60.98,14,34.15
+df.A & df.B & df.C,5,5,100.0,5,100.0,3,60.0
+df.A & df.B & df.C & df.D,4,4,100.0,4,100.0,3,75.0
+df.A & df.B & df.C & df.D & df.E,1,1,100.0,1,100.0,1,100.0
+df.A & df.B & df.C & df.D & df.E & df.F,0,0,0.0,0,0.0,0,0.0
+df.A & df.B & df.C & df.D & df.E & df.F & df.G1,0,0,0.0,0,0.0,0,0.0
+df.A & df.B & df.C & df.D & df.E & df.F & df.G1 & df.G2,0,0,0.0,0,0.0,0,0.0
+df.A & df.B & df.C & df.D & df.E & df.F & df.G1 & df.G2 & df.G3,0,0,0.0,0,0.0,0,0.0
+df.A & df.B & df.C & df.D & df.E & df.F & df.G1 & df.G2 & df.G3 & df.H1,0,0,0.0,0,0.0,0,0.0
+df.A & df.B & df.C & df.D & df.E & df.F & df.G1 & df.G2 & df.G3 & df.H1 & df.H2,0,0,0.0,0,0.0,0,0.0
+df.A & df.B & df.C & df.D & df.E & df.F & df.G1 & df.G2 & df.G3 & df.H1 & df.H2 & df.H3,0,0,0.0,0,0.0,0,0.0
+df.A & df.B & df.C & df.D & df.E & df.F & df.G1 & df.G2 & df.G3 & df.H1 & df.H2 & df.H3 & df.I,0,0,0.0,0,0.0,0,0.0
+df.A & df.B & df.C & df.D & df.E & df.F & df.G1 & df.G2 & df.G3 & df.H1 & df.H2 & df.H3 & df.I & df.J,0,0,0.0,0,0.0,0,0.0
